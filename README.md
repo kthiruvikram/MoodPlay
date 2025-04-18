@@ -21,11 +21,7 @@ MoodPlay is a machine learning-based system that creates a personalized music ex
 | -             | Python        | OpenCV        | Arduino Uno   |
 | -             | Flask (optional) | Scikit-learn | Sensors (EEG/Temp/etc) |
 
----
 
-## 📷 Screenshots/Demo
-
-_Add a GIF or image of the system running, the UI, or serial output from Arduino._
 
 ---
 
